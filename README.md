@@ -47,3 +47,12 @@ I then added the segmented picker with placement modifiers and ForEach to iterat
 <img width="600" height="600" alt="Screenshot 2026-03-28 at 4 21 26 AM" src="https://github.com/user-attachments/assets/23d2ea8f-5921-48ee-bd98-41fb40aed435" />
 
 Finally, I utilized String interpolation to display the selected option made by the user.
+
+## Preview
+
+<img width="200" height="500" alt="Screenshot 2026-03-29 at 5 55 58 PM" src="https://github.com/user-attachments/assets/8e284dfa-83b9-440f-ab7a-c3e0b0191ac8" />
+<img width="200" height="500" alt="Screenshot 2026-03-29 at 5 56 13 PM" src="https://github.com/user-attachments/assets/09727151-4f3e-4018-8256-b439aa5089d4" />
+<img width="200" height="500" alt="Screenshot 2026-03-29 at 5 56 24 PM" src="https://github.com/user-attachments/assets/6c0fa57d-e753-4944-81d4-0d6e1d841f28" />
+<img width="200" height="500" alt="Screenshot 2026-03-29 at 5 56 38 PM" src="https://github.com/user-attachments/assets/cc09b2df-1747-4a97-ad48-651c00cd011e" />
+<img width="200" height="500" alt="Screenshot 2026-03-29 at 5 56 50 PM" src="https://github.com/user-attachments/assets/dd68b902-622e-43bf-92fe-3b58ab41f84a" />
+
